@@ -11,7 +11,7 @@ public class Main {
 	}
 	
 	private Main(){
-		TopoMap topo = new TopoMap(1550, 950);
+		TopoMap topo = new TopoMap(1250, 850);
 		new View(topo);
 	}
 }
